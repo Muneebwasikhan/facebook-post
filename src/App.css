@@ -44,7 +44,6 @@
 }
 .cont{
   width: 200px;
-  border: 2px solid black;
 }
 .LCS{
   height: 30px;
@@ -86,7 +85,7 @@
   align-self: center;
 }
 .border{
-  border: 2px solid black;
+  /* border: 2px solid black; */
 }
 
 .topBar{
